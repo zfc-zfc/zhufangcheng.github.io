@@ -17,5 +17,4 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 
 Here are some wonderful pictures of my work:
 
-<div align="center"><img src="../images/pic.png" width=100% /></div>
-
+![pic.png](./images/pic.png)
