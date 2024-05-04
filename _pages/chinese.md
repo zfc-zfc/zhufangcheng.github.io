@@ -5,12 +5,12 @@ permalink: /chinese/
 author_profile: true
 ---
 
-我目前的研究兴趣是推荐系统、公平性和时间序列。
+我是朱方程，目前是[香港大学](https://www.hku.hk/)机械工程系 [MaRS 实验室](https://mars.hku.hk/)的博士生，师从[张富教授](https://www.mech.hku.hk/academic-staff/zhang-f).
 
-我目前是[香港科技大学](https://hkust.edu.hk/)计算机科学与工程专业的博士生，于 2023 年秋季入学，师从[Raymond Wong 教授](https://www.cse.ust.hk/~raywong/)。
+我的研究兴趣包括但不限于**机器人感知、基于激光雷达的同时定位与建图（SLAM）、传感器标定与融合、无人机集群系统以及四旋翼无人机的自主导航**。
 
-我在[北京邮电大学(BUPT)](http://www.bupt.edu.cn/) 获得计算机科学学士学位，在[王敬宇教授](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao) 指导下，我的毕业设计 "基于交互式搜索的 Top-k 公平性研究 "获得北京市普通高校优秀本科毕业设计（论文）奖。
+我于2021年获得[哈尔滨工业大学深圳校区](https://www.hitsz.edu.cn/)自动化专业的学士学位，本科论文题目是“基于固态激光雷达的同时定位与建图方法”，指导老师为[梅杰教授](https://faculty.hitsz.edu.cn/meijie)。
 
-我曾在[北京邮电大学徐梦炜教授](https://xumengwei.github.io/)和[微软亚洲研究院曹婷博士](https://www.microsoft.com/en-us/research/people/ticao/)的指导下研究移动计算机系统。
+我于2019在美国[加州大学伯克利分校](https://www.berkeley.edu/)交流学习，拓展视野。
 
-我曾作为访问学生在[英属哥伦比亚大学](https://ece.ubc.ca/)从事动态图算法的研究，导师是[Matei Ripeanu 教授](https://people.ece.ubc.ca/matei/)，该研究得到了[Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) 和[国家留学基金委](https://www.csc.edu.cn/)的支持。
+我致力于开发稳定可行的算法，使得机器人（无人机、服务机器人、自动驾驶车辆等）能够全面而精确地感知外部环境。我希望与优秀的同行们一起，潜心于机器人、人工智能研究，使得未来的机器人能够真正进入千家万户，作为人类的好帮手，创造更美好的生活。
