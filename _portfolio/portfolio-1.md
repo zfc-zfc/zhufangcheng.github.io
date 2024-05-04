@@ -1,5 +1,5 @@
 ---
 title: "Cool Pictures"
-excerpt: "<br/><img src='../images/pic.png'>"
+excerpt: "<br/><img src='../images/pic0.png'>"
 collection: portfolio
 ---
