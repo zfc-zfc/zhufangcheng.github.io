@@ -23,21 +23,11 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 
 ## Academic Talks and Services
 
-* Conference Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **ICRA 2023, London, UK**
-
-  [Video of Paper](https://b23.tv/MnAbSVX)
-
-* Conference Talk: ”Robust Real-time LiDAR-inertial Initialization,” **IROS 2023, Kyoto, Japan**
-
-  [Video of Paper](https://youtu.be/WiHgcPpKwvU?si=EQ-f134sQK3UFWLb)
-
+* Conference Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **ICRA 2023, London, UK.** [Video of Paper](https://b23.tv/MnAbSVX)
+* Conference Talk: ”Robust Real-time LiDAR-inertial Initialization,” **IROS 2023, Kyoto, Japan.** [Video of Paper](https://youtu.be/WiHgcPpKwvU?si=EQ-f134sQK3UFWLb)
 * Academic Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **School of Artificial Intelli-**
-  **gence, Sun Yat-sen University, Zhuhai**. May 2023 
-
-  [Video of Presentation](https://b23.tv/nGhNqVS)
-
+  **gence, Sun Yat-sen University, Zhuhai**. May 2023.  [Video of Presentation](https://b23.tv/nGhNqVS)
 * Reviewer of
-
   * IEEE Transactions on Intelligent Vehicles (TIV)
   * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   * IEEE International Conference on Robotics and Automation (ICRA)
@@ -49,11 +39,11 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 * 2023 **Best Overall and Best Student Paper Finalist** in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * 2023 **Best Paper Award on Robot Mechanisms and Design** in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * 2023 **Best Paper Finalist (Navigation)** in IEEE International Conference on Robotics and Automation (ICRA)
-* 2021 Harbin Institute of Technology | Outstanding Graduate Honor（Top 10%）
-* 2020 Mathematical Contest in Modeling | Meritorious Winner
-* 2019 Harbin Institute of Technology | Outstanding Student（Top 2%）
-* 2018 Harbin Institute of Technology | Outstanding Student Leader（Top 2%）
-* 2017 Harbin Institute of Technology (Shenzhen) | First Class Scholarship（Top 5%）
+* 2021 **Outstanding Graduate Honor** of Harbin Institute of Technology (Top 10%)
+* 2020 **Meritorious Winner** of Mathematical Contest in Modeling
+* 2019 **Outstanding Student** of Harbin Institute of Technology (Top 2%) 
+* 2018 **Outstanding Student Leader** of Harbin Institute of Technology (Top 2%)
+* 2017 **First Class Scholarship** of Harbin Institute of Technology (Shenzhen) (Top 5%)
 
 
 
