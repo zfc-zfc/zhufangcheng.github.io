@@ -23,10 +23,9 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 
 ## Academic Talks and Services
 
-* Conference Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **ICRA 2023, London, UK.** [Video of Paper](https://b23.tv/MnAbSVX)
-* Conference Talk: ”Robust Real-time LiDAR-inertial Initialization,” **IROS 2023, Kyoto, Japan.** [Video of Paper](https://youtu.be/WiHgcPpKwvU?si=EQ-f134sQK3UFWLb)
-* Academic Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **School of Artificial Intelli-**
-  **gence, Sun Yat-sen University, Zhuhai**. May 2023.  [Video of Presentation](https://b23.tv/nGhNqVS)
+* Conference Presentation: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **ICRA 2023, London, UK.** [Video of Paper](https://b23.tv/MnAbSVX)
+* Conference Presentation: ”Robust Real-time LiDAR-inertial Initialization,” **IROS 2023, Kyoto, Japan.** [Video of Paper](https://youtu.be/WiHgcPpKwvU?si=EQ-f134sQK3UFWLb)
+* Academic Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **School of Artificial Intelligence, Sun Yat-sen University, Zhuhai**. May 2023.  [Video of Presentation](https://b23.tv/nGhNqVS)
 * Reviewer of
   * IEEE Transactions on Intelligent Vehicles (TIV)
   * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
@@ -51,4 +50,4 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 
 * Robotic Algorithm: LiDAR(-inertial) SLAM, Sensor Calibration, UAV Navigation, UAV Swarm, ROS, Linux
 * Programming: C/C++,Matlab & Simulink, PCL, OpenCV
-* Language: Mandarin(Native Speaker), English(CET4：607)
+* Language: Mandarin(Native Speaker), English(CET6：528)

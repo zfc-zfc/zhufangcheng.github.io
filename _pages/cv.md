@@ -102,23 +102,22 @@ Honors and Awards
 
 * 2018 **Outstanding Student Leader** of Harbin Institute of Technology (Top 2%)
 
-* 2017 **First Class Scholarship** of Harbin Institute of Technology (Shenzhen) (Top 5%
+* 2017 **First Class Scholarship** of Harbin Institute of Technology (Shenzhen) (Top 5%)
 
   
 
 
 Teaching
 ======
-* Teaching Assistant at HKU.
+* Teaching Assistant at HKU
 
   * MECH3418 (Dynamics and Control)
 
   * IDAT7213 (UAV Design, Navigation and Control)
 
-    
 
 # Skills
 
 * Robotic Algorithm: LiDAR(-inertial) SLAM, Sensor Calibration, UAV Navigation, UAV Swarm, ROS, Linux
-* Programming: C/C++,Matlab & Simulink, PCL, OpenCV
-* Language: Mandarin(Native Speaker), English(CET4：607)
+* Programming: C/C++, Matlab & Simulink, PCL, OpenCV
+* Language: Mandarin(Native Speaker), English(CET6：528)
