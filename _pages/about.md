@@ -15,9 +15,9 @@ My research interests include but are not limited to **Robotics, LiDAR-based SLA
 
 In 2021, I received my Bachelor's Degree in Automation from [Harbin Institute of Technology (HIT), Shenzhen](https://www.hitsz.edu.cn/), and the title of my undergraduate thesis is "Simultaneously Localization and Mapping Method based on Solid-State LiDAR", supervised by [Prof. Jie Mei](https://faculty.hitsz.edu.cn/meijie).
 
- In 2019, I participated in an exchange program and studied at the [University of California, Berkeley (UCB)](https://www.berkeley.edu/) for a few months.
+Now I am dedicated to developing stable and feasible algorithms that enable robots (UAVs, service robots, autonomous vehicles) to perceive the external environment comprehensively and precisely. I envision a future where robots can truly enter every household and enhance the quality of human life. 
 
-Now I am dedicated to developing stable and feasible algorithms that enable robots (UAVs, service robots, autonomous vehicles) to perceive the external environment comprehensively and precisely. I envision a future where robots can truly enter every household and enhance the quality of human life.
+Beyond academia, I actively contribute to open-source projects. My research code on GitHub has accumulated over **5k stars** ⭐. Notable repositories include [**LiDAR_IMU_Init (★868)**](https://github.com/hku-mars/LiDAR_IMU_Init), [**Swarm-LIO2 (★231)**](https://github.com/hku-mars/Swarm-LIO2), [**FAST-LIO (★2.8k)**](https://github.com/hku-mars/FAST_LIO), and [**FAST-LIVO2 (★1.2k)**](https://github.com/hku-mars/FAST-LIVO2).
 
 
 
@@ -27,7 +27,9 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 * Conference Presentation: ”Robust Real-time LiDAR-inertial Initialization,” **IROS 2023, Kyoto, Japan.** [Video of Paper](https://youtu.be/WiHgcPpKwvU?si=EQ-f134sQK3UFWLb)
 * Academic Talk: ”Swarm-LIO: Decentralized Swarm LiDAR-inertial Odometry,” **School of Artificial Intelligence, Sun Yat-sen University, Zhuhai**. May 2023.  [Video of Presentation](https://b23.tv/nGhNqVS)
 * Reviewer of
+  * IEEE Robotics and Automation Letters (RA-L)
   * IEEE Transactions on Intelligent Vehicles (TIV)
+  * IEEE Transactions on Instrumentation and Measurement (TIM)
   * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   * IEEE International Conference on Robotics and Automation (ICRA)
 
@@ -37,12 +39,24 @@ Now I am dedicated to developing stable and feasible algorithms that enable robo
 
 * 2023 **Best Overall and Best Student Paper Finalist** in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * 2023 **Best Paper Award on Robot Mechanisms and Design** in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
 * 2023 **Best Paper Finalist (Navigation)** in IEEE International Conference on Robotics and Automation (ICRA)
-* 2021 **Outstanding Graduate Honor** of Harbin Institute of Technology (Top 10%)
+
+* 2021–2025 **Postgraduate Scholarship** of The University of Hong Kong (HKU)
+
+* 2021 **Outstanding Graduate Honor** of Harbin Institute of Technology 
+
 * 2020 **Meritorious Winner** of Mathematical Contest in Modeling
-* 2019 **Outstanding Student** of Harbin Institute of Technology (Top 2%) 
-* 2018 **Outstanding Student Leader** of Harbin Institute of Technology (Top 2%)
-* 2017 **First Class Scholarship** of Harbin Institute of Technology (Shenzhen) (Top 5%)
+
+* 2019 **Outstanding Student** of Harbin Institute of Technology
+
+* 2019 **Second Prize Scholarship** of Harbin Institute of Technology (Shenzhen)
+
+* 2018 **Outstanding Student Leader** of Harbin Institute of Technology
+
+* 2017 **Outstanding Communist Youth League Cadre** of Harbin Institute of Technology
+
+* 2017 **First Class Scholarship** of Harbin Institute of Technology (Shenzhen)
 
 
 
